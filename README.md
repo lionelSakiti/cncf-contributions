@@ -14,6 +14,23 @@ Ce registre présente **uniquement des traces publiques identifiables**. Il dist
 
 **Vérification au 11 novembre 2026 :** l'issue CNCF #875 est ouverte et ne comporte alors aucun commentaire dans la réponse GitHub consultée. Les deux dépôts cités ci-dessus sont publics. Ces informations peuvent évoluer.
 
+## Audit GitHub / DevStats — 11 novembre 2026
+
+### Autres traces dans le dépôt officiel CNCF Community Groups
+
+| Contribution | État vérifié | Preuve |
+|---|---|---|
+| Demande d'ajout comme coorganisateur de Cloud Native Cotonou | Issue clôturée avec motif `completed` ; ne démontre pas à elle seule la tenue d'un meetup | [cncf/communitygroups #856](https://github.com/cncf/communitygroups/issues/856) |
+| Demande liée au chapitre Dakar / Cloud Native UEMOA | Issue clôturée ; portée exacte de la décision non confirmée | [cncf/communitygroups #552](https://github.com/cncf/communitygroups/issues/552) |
+
+### CNCF DevStats
+
+- Identifiant GitHub à examiner : [`lionelSakiti`](https://github.com/lionelSakiti).
+- [Portail CNCF DevStats](https://devstats.cncf.io/) et [documentation de son API](https://github.com/cncf/devstatscode/blob/master/API.md).
+- **Score personnel DevStats : non confirmé au 11 novembre 2026.** Aucun chiffre n'est publié sans lecture fiable d'un résultat individuel.
+- DevStats avertit que les données GitHub Archive peuvent être incomplètes, en particulier pour les événements récents.
+- Pour terminer cet audit, consulter la vue individuelle et enregistrer une URL ou une capture datée du résultat.
+
 ## Résultats à documenter lorsqu'ils seront prouvés
 
 Les rubriques suivantes **ne constituent pas des réalisations déclarées**.
